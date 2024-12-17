@@ -1,0 +1,19 @@
+# 仮想環境フォルダ
+env/
+
+# Pythonのキャッシュファイル
+__pycache__/
+*.pyc
+
+# 特定のOS固有のファイル
+.DS_Store  # macOSの不要ファイル
+Thumbs.db  # Windowsの不要ファイル
+chat_history.json
+AI教育用専門用語集20240730.txt
+dictionary.csv
+
+# ログファイル
+*.log
+
+# 機密情報
+*.env
